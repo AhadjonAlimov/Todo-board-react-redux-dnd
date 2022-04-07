@@ -1,0 +1,49 @@
+.content {
+    padding: 20px 0px 50px 0px;
+}
+
+.containerEdit {
+    width: 100%;
+}
+
+.taskCard {
+    width: 100%;
+    border: 1px rgb(209, 208, 208) solid;
+    outline: none;
+    overflow-wrap: break-word;
+}
+
+.customCancel {
+    border: rgb(255, 132, 132) dashed 1px;
+}
+.maxW{
+    max-width: 430px;
+}
+
+@media (min-width: 640px) {
+    .smCard {
+        width: 50%;
+    }
+}
+
+@media (min-width: 768px) {
+    .mdCard {
+        width: 50%;
+    }
+}
+
+@media (min-width: 1280px) {
+    .xlCard {
+        width: 25%;
+    }
+}
+
+.justMessage{
+    margin: 0 auto !important;
+    color: rgb(48, 170, 221);
+    font-weight: bold;
+    // margin-left: 50% !important;
+    display: flex;
+    justify-content: center;
+    font-size: large;
+}

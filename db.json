@@ -1,0 +1,112 @@
+{
+  "todoLists": [
+    {
+      "name": "TODAY",
+      "bIndex": 1,
+      "items": [
+        {
+          "id": 1,
+          "tIndex": 1,
+          "todo": "Work on company website. Add description for the menu. Work on company website. Add description for the menu",
+          "priority": "LOW",
+          "todoDate": "TODAY"
+        },
+        {
+          "id": 2,
+          "tIndex": 2,
+          "todo": "Create templates for Marketing team. Create templates for Marketing team",
+          "priority": "HIGH",
+          "todoDate": "TODAY"
+        },
+        {
+          "id": 3,
+          "tIndex": 3,
+          "todo": "Post tweets about upcoming releases. Post tweets about upcoming releases",
+          "priority": "LOW",
+          "todoDate": "TODAY"
+        }
+      ]
+    },
+    {
+      "name": "TOMORROW",
+      "bIndex": 2,
+      "items": [
+        {
+          "id": 4,
+          "tIndex": 4,
+          "todo": "Update Landing page testimonials part. Update Landing page testimonials part",
+          "priority": "LOW",
+          "todoDate": "TOMORROW"
+        },
+        {
+          "id": 5,
+          "tIndex": 5,
+          "todo": "Review Dev environment. Review Dev environment",
+          "priority": "MED",
+          "todoDate": "TOMORROW"
+        },
+        {
+          "id": 6,
+          "tIndex": 6,
+          "todo": "Work on company website. Add description for the menu. Work on company website. Add description for the menu",
+          "priority": "HIGH",
+          "todoDate": "TOMORROW"
+        },
+        {
+          "id": 7,
+          "tIndex": 7,
+          "todo": "Work on company website. Add description for the menu. Work on company website. Add description for the menu",
+          "priority": "HIGH",
+          "todoDate": "TOMORROW"
+        }
+      ]
+    },
+    {
+      "name": "NEXT WEEK",
+      "bIndex": 3,
+      "items": [
+        {
+          "id": 8,
+          "tIndex": 8,
+          "todo": "Discuss User Persona with the entire team. Discuss User Persona with the entire team",
+          "priority": "LOW",
+          "todoDate": "NEXT WEEK"
+        },
+        {
+          "id": 9,
+          "tIndex": 9,
+          "todo": "Conduct Usability workshops for Commercial Team. Conduct Usability workshops for Commercial Team",
+          "priority": "HIGH",
+          "todoDate": "NEXT WEEK"
+        },
+        {
+          "id": 10,
+          "tIndex": 10,
+          "todo": "Review Customers' feedback about new features. Review Customers' feedback about new features",
+          "priority": "LOW",
+          "todoDate": "NEXT WEEK"
+        }
+      ]
+    },
+    {
+      "name": "NEXT MONTH",
+      "bIndex": 4,
+      "items": [
+        {
+          "id": 11,
+          "tIndex": 11,
+          "todo": "Customer Journey Map for the upcoming project. Customer Journey Map for the upcoming project",
+          "priority": "MED",
+          "todoDate": "NEXT MONTH"
+        },
+        {
+          "id": 12,
+          "tIndex": 12,
+          "todo": "Create UI Bug lists for the Dev team. Create UI Bug lists for the Dev team",
+          "priority": "LOW",
+          "todoDate": "TODAY"
+        }
+      ]
+    }
+  ]
+}
