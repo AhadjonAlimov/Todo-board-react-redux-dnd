@@ -13,5 +13,5 @@
 
 To run this project follow next steps:
 
-1. You need configure firebase.config.js
+1. `npm install`
 2. `npm start`
